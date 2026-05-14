@@ -19,7 +19,6 @@ This is a simple login page created using HTML and CSS only.
 3. The login page will open in the browser.
 
 ## Deployment Link
-
-
+https://yashangi1516.github.io/assignment/
 ## Author
 Yashangi Singh
