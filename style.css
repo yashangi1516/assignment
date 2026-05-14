@@ -1,0 +1,64 @@
+body {
+    background-color:rgb(199, 166, 140);
+}
+
+
+/* headings */
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color: darkseagreen;
+}
+
+.red {
+    color: red;
+}
+
+/* paragraphs */
+p {
+    color: white;
+}
+
+#para {
+    color: green;
+}
+
+.para {
+    color: black;
+    font-size: x-large;
+}
+
+/* special colored li items */
+ol li:nth-child(2) {
+    color: blue;
+}
+
+ol li:nth-child(3) {
+    color: red;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* color only the word “here” */
+a span {
+    color:green;
+    background-color:yellow;
+    font-weight: bold;
+}
+
+/* second link “here” with different color */
+ul li:nth-child(2) a span {
+    color:red;
+    background-color:blue;
+}
+
+/* list items */
+li {
+    color: white;
+}
